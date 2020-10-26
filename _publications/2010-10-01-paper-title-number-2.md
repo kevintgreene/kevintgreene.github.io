@@ -1,15 +1,11 @@
 ---
-title: "Paper Title Number 2"
+title: "How to Teach Machines to Read Human Rights Reports and Identify Judgments at Scale"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2009-10-01-paper-title-number-2
+date: 2020-01-01
+venue: 'Journal of Human Rights'
+#paperurl: 'http://kevintgreene/kevintgreene.github.io/files/HRIP_APSR.pdf'
+link: tandfonline.com/doi/abs/10.1080/14754835.2019.1671174
+#code: https://doi.org/10.1017/S0003055420000258
+citation: 'Park, Baekkwan, Kevin Greene, Michael Colaresi. 2020. &quot;How to Teach Machines to Read Human Rights Reports and Identify Judgments at Scale.&quot; <i>Journal of Human Rights</i>. 1(1).'
 ---
-This paper is about the number 2. The number 3 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
