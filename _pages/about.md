@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Fellow in the School of School of Public and International Affairs at Princeton University. Previously I served as a Postdoctoral Fellow in the Computer Science Department at Dartmouth College. My work focuses on International Relations and Political Methodology. I earned my Ph.D. in Political Science from the University of Pittsburgh. 
+I am a Postdoctoral Fellow in the School of Public and International Affairs at Princeton University. Previously I served as a Postdoctoral Fellow in the Computer Science Department at Dartmouth College. My work focuses on International Relations and Political Methodology. I earned my Ph.D. in Political Science from the University of Pittsburgh. 
 
 My research assesses the implications of competition between violent non-state groups and the communication strategies these groups employ. Related ongoing work aims to better measure and mitigate online dis/misinformation. My other research agendas aim to better measure and understand the changes in reporting on human rights over time, and developing models for forecasting the onset and intensity of violent political actions. A common thread across my research projects is the use of computational approaches such as machine learning, Bayesian statistics, and various techniques from natural language processing (NLP).
 
