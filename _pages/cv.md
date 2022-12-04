@@ -9,5 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-<iframe src="/files/Kevin_Greene_CV.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
-You can download a PDF copy of my CV [here](/files/Kevin_Greene_CV.pdf).
+<iframe src="/files/Greene_CV_Public.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+You can download a PDF copy of my CV [here](/files/Greene_CV_Public.pdf).
