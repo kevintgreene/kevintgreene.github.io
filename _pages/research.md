@@ -10,7 +10,7 @@ My research covers two broad areas of interest: the role of information and info
 
 **Information Communication Technologies and Politics**
 - Online Misinformation: My primary research interests revolve around better understanding online misinformation. This includes projects on the spread of misinformation by algorithmic systems, the nature of information acquisition in news deserts, and the role of political elites in the spread of [misinformation](/files/test_file.pdf).
-- Human Rights Reporting: This set of papers uses natural language processing and machine learning to contribute to the ongoing debate about compositional changes in the global reports on human rights violations. Papers on this topic have been published in *The American Political Science Review*, *Political Analysis*, and *The Journal of Human Rights*. [
+- Human Rights Reporting: This set of papers uses natural language processing and machine learning to contribute to the ongoing debate about compositional changes in the global reports on human rights violations. Papers on this topic have been published in *The American Political Science Review*, *Political Analysis*, and *The Journal of Human Rights*. 
 
  
 **Intrastate Conflict**
