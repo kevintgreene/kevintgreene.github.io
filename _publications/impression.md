@@ -7,6 +7,6 @@ venue: 'Scientific Reports'
 paperurl: '/files/impression.pdf'
 link: https://www.nature.com/articles/s41598-021-96021-3
 #code: https://doi.org/10.1017/S0003055420000258
-#citation: 'Conrad, Justin, Kevin Greene. 2015. &quot;Competition, Differentiation and the Severity of Terrorist Attacks.&quot; <i>The Journal of Politics</i>. 1(1).'
+citation: 'Liu, Rui, Kevin T. Greene, Ruibo Liu, Mihovil Mandic, Benjamin A. Valentino, Soroush Vosoughi, and V. S. Subrahmanian. "Using impression data to improve models of online social influence." Scientific reports 11, no. 1 (2021): 16613.'
 ---
 

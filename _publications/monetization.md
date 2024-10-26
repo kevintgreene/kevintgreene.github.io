@@ -7,6 +7,6 @@ venue: 'Scientific Reports'
 paperurl: '/files/monetization.pdf'
 link: https://www.nature.com/articles/s41598-023-43061-6
 #code: https://doi.org/10.1017/S0003055420000258
-# citation: 'Conrad, Justin, Kevin Greene. 2015. &quot;Competition, Differentiation and the Severity of Terrorist Attacks.&quot; <i>The Journal of Politics</i>. 1(1).'
+citation: 'Broniatowski, David A., Kevin T. Greene, Nilima Pisharody, Daniel J. Rogers, and Jacob N. Shapiro. "Measuring the monetization strategies of websites with application to pro-and anti-vaccine communities." Scientific reports 13, no. 1 (2023): 15964.'
 ---
 
