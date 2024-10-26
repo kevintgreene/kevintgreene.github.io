@@ -2,7 +2,7 @@
 title: "Introducing ViNSAR: Dyadic Data on Violent Non-State Actor Rivalry"
 collection: publications
 permalink: /publication/vinsar
-date: 20123-06-30
+date: 2023-06-30
 venue: 'Journal of Conflict Resolution'
 paperurl: '/files/Vinsar_JCR.pdf'
 link: https://journals.sagepub.com/doi/full/10.1177/00220027231208708

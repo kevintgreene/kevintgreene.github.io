@@ -2,7 +2,7 @@
 title: "Measuring the Monetization of Online Discourse with Application to Pro- and Anti-Vaccine Communities"
 collection: publications
 permalink: /publication/monetization
-date: 2015-06-30
+date: 2023-06-30
 venue: 'Scientific Reports'
 paperurl: '/files/monetization.pdf'
 link: https://www.nature.com/articles/s41598-023-43061-6
