@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Associate Research Scholar in the Empirical Studies of Conflict project at Princeton University leading the [Digital Conflict and Information Integrity](https://esoc.princeton.edu/projects/digital-conflict-and-information-integrity) project. Previously I served as a Postdoctoral Fellow in the Computer Science Department at Dartmouth College. I earned my Ph.D. in Political Science from the University of Pittsburgh. 
+I am an Academic Research Manager in the Empirical Studies of Conflict project at Princeton University leading the [Digital Conflict and Information Integrity](https://esoc.princeton.edu/projects/digital-conflict-and-information-integrity) project. Previously I served as a Postdoctoral Fellow in the Computer Science Department at Dartmouth College. I earned my Ph.D. in Political Science from the University of Pittsburgh. 
 
 I use data science techniques such as machine learning and natural language processing (NLP) to study the role of information and information communication technologies (ICT) in international and domestic politics. Ongoing projects investigate the spread of unreliable content from algorithmic recommendations, the social and political risks posed by generative AI, the strategies employed by foreign influence operations, and how political actors use digital media to promote their agendas.
 
