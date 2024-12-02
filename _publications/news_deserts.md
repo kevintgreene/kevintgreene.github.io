@@ -1,5 +1,5 @@
 ---
-title: "An evaluation of online information acquisition in US news deserts"
+title: "An Evaluation of Online Information Acquisition in US News Deserts"
 collection: publications
 permalink: /publication/news_deserts
 date: 2024-10-01
